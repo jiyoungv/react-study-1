@@ -1,7 +1,7 @@
 # To-Do-List 만들기
 
-간단한 To Do List
-create-react-app 사용
+간단한 To Do List  
+create-react-app 사용  
 
 ## 실행
 
