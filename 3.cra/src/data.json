@@ -1,0 +1,5 @@
+{
+    "name": "jiyoung Park",
+    "study": "create-react-app",
+    "message": "cra는 webpack, polyfill, babel, HMR 등 알아서 전부 설치해주는 똘똘한 패키지에요!"
+}
